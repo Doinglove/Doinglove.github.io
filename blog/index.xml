@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>xiaoban的胡言乱语</title>
-    <link>https://doinglove.github.io/</link>
-    <description>Recent content on xiaoban的胡言乱语</description>
+    <title>Blogs on xiaoban的胡言乱语</title>
+    <link>https://doinglove.github.io/blog/</link>
+    <description>Recent content in Blogs on xiaoban的胡言乱语</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 27 Jul 2026 20:05:19 +0800</lastBuildDate>
-    <atom:link href="https://doinglove.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://doinglove.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>尾声 开始</title>
       <link>https://doinglove.github.io/blog/20260727%E5%B0%BE%E5%A3%B0-%E5%BC%80%E5%A7%8B/</link>
