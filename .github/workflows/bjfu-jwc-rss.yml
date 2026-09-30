@@ -1,6 +1,10 @@
 name: 更新北林教务 RSS
 
 on:
+  push:
+    paths:
+      - '.github/workflows/bjfu-jwc-rss.yml'
+      - 'bjfu-jwc/scripts/build-feed.mjs'
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
